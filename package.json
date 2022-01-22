@@ -24,7 +24,7 @@
     "socket.io": "^2.2.0"
   },
   "devDependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "socket.io-client": "^2.2.0"
   }
 }
